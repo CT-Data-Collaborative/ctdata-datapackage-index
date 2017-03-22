@@ -9,6 +9,7 @@ Data publishing is at the core of what we do at CTData. The vast majority of our
 ### Demographics
 
 - [Population by Age by Town](https://github.com/CT-Data-Collaborative/population-by-age-by-town)
+- [Population by Age by County](https://github.com/CT-Data-Collaborative/population-by-age-by-county)
 
 ### Economics
 

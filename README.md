@@ -71,6 +71,7 @@ Data publishing is at the core of what we do at CTData. The vast majority of our
 - [Suspension-Rates-by-Meal-Eligibility](https://github.com/CT-Data-Collaborative/suspension-rates-by-meal-eligibility)
 - [Suspension-Rates-by-ELL](https://github.com/CT-Data-Collaborative/suspension-rates-by-ELL)
 - [Suspension-Rates-by-All-Students](https://github.com/CT-Data-Collaborative/suspension-rates-by-all-students)
+- [Incidents](https://github.com/CT-Data-Collaborative/incidents)
 
 ### Health
 

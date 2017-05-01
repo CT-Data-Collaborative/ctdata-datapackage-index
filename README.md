@@ -15,6 +15,7 @@ Data publishing is at the core of what we do at CTData. The vast majority of our
 
 - [Annual Average Employment and Wages](https://github.com/CT-Data-Collaborative/annual-average-employment-and-wages)
 - [Labor Force](https://github.com/CT-Data-Collaborative/labor-force)
+- [Employment by Industry](https://github.com/CT-Data-Collaborative/employment-by-industry)
 - [Municipal Revenue and Expenditures](https://github.com/CT-Data-Collaborative/municipal-revenue-and-expenditures)
 - [Municipal Grand List](https://github.com/CT-Data-Collaborative/municipal-grand-list)
 - [Municipal Debt](https://github.com/CT-Data-Collaborative/municipal-debt)

@@ -19,6 +19,7 @@ Data publishing is at the core of what we do at CTData. The vast majority of our
 - [Municipal Revenue and Expenditures](https://github.com/CT-Data-Collaborative/municipal-revenue-and-expenditures)
 - [Municipal Grand List](https://github.com/CT-Data-Collaborative/municipal-grand-list)
 - [Municipal Debt](https://github.com/CT-Data-Collaborative/municipal-debt)
+- [Commuting and Residence](https://github.com/CT-Data-Collaborative/commuting-and-residence)
 
 ### Education
 

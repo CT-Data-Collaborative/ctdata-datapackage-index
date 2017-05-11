@@ -6,6 +6,8 @@ Data publishing is at the core of what we do at CTData. The vast majority of our
 
 ### Civic Vitality
 
+- [Public Libraries](https://github.com/CT-Data-Collaborative/public-libraries)
+
 ### Demographics
 
 - [Population by Age by Town](https://github.com/CT-Data-Collaborative/population-by-age-by-town)

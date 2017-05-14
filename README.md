@@ -64,6 +64,7 @@ Data publishing is at the core of what we do at CTData. The vast majority of our
 - [Incidents](https://github.com/CT-Data-Collaborative/incidents)
 - [Pre-K Students - PSIS](https://github.com/CT-Data-Collaborative/pre-k-students-psis)
 - [Sanctions](https://github.com/CT-Data-Collaborative/sanctions)
+- [Smarter Balanced by All Students](https://github.com/CT-Data-Collaborative/smarter-balanced-by-all-students)
 - [Student Enrollment](https://github.com/CT-Data-Collaborative/student-enrollment)
 - [Student-Enrollment-by-Grade](https://github.com/CT-Data-Collaborative/student-enrollment-by-grade)
 - [Student-Enrollment-by-Gender](https://github.com/CT-Data-Collaborative/student-enrollment-by-gender)

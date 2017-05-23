@@ -24,6 +24,7 @@ Data publishing is at the core of what we do at CTData. The vast majority of our
 - [Municipal Revenue and Expenditures](https://github.com/CT-Data-Collaborative/municipal-revenue-and-expenditures)
 - [Grand List Top 10](https://github.com/CT-Data-Collaborative/grand-list-top-10)
 - [Grand List Top 10 Totals](https://github.com/CT-Data-Collaborative/grand-list-top-10-totals)
+- [Major Employers](https://github.com/CT-Data-Collaborative/major-employers)
 
 ### Education
 

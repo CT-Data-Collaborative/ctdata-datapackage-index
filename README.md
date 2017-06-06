@@ -7,6 +7,7 @@ Data publishing is at the core of what we do at CTData. The vast majority of our
 ### Civic Vitality
 
 - [Government Addresses](https://github.com/CT-Data-Collaborative/government-addresses)
+- [Moody's Rating](https://github.com/CT-Data-Collaborative/moodys-rating)
 - [Public Libraries](https://github.com/CT-Data-Collaborative/public-libraries)
 - [Utilities](https://github.com/CT-Data-Collaborative/utilities)
 

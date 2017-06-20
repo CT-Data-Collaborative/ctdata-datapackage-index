@@ -13,6 +13,15 @@ Data publishing is at the core of what we do at CTData. The vast majority of our
 
 ### Demographics
 
+- [Births by Maternal Behaviors - 1-Year Data](https://github.com/CT-Data-Collaborative/births-by-maternal-behaviors-1-year-data)
+- [Births by Maternal Behaviors - 3-Year Aggregations](https://github.com/CT-Data-Collaborative/births-by-maternal-behaviors-3-year-aggregations)
+- [Births by Maternal Behaviors - 5-Year Aggregations](https://github.com/CT-Data-Collaborative/births-by-maternal-behaviors-5-year-aggregations)
+- [Births by Maternal Demographic Characteristics - 1-Year Data](https://github.com/CT-Data-Collaborative/births-by-maternal-demographic-characteristics-1-year-data)
+- [Births by Maternal Demographic Characteristics - 3-Year Aggregations](https://github.com/CT-Data-Collaborative/births-by-maternal-demographic-characteristics-3-year-aggregations)
+- [Births by Maternal Demographic Characteristics - 5-Year Aggregations](https://github.com/CT-Data-Collaborative/births-by-maternal-demographic-characteristics-5-year-aggregations)
+- [Births by Maternal Socioeconomic Characteristics - 1-Year Data](https://github.com/CT-Data-Collaborative/births-by-maternal-socioeconomic-characteristics-1-year-data)
+- [Births by Maternal Socioeconomic Characteristics - 3-Year Aggregations](https://github.com/CT-Data-Collaborative/births-by-maternal-socioeconomic-characteristics-3-year-aggregations)
+- [Births by Maternal Socioeconomic Characteristics - 5-Year Aggregations](https://github.com/CT-Data-Collaborative/births-by-maternal-socioeconomic-characteristics-5-year-aggregations)
 - [Population by Age by Town](https://github.com/CT-Data-Collaborative/population-by-age-by-town)
 - [Population by Age by County](https://github.com/CT-Data-Collaborative/population-by-age-by-county)
 

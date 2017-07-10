@@ -97,6 +97,12 @@ Data publishing is at the core of what we do at CTData. The vast majority of our
 
 ### Health
 
+- [Fetal and Infant Mortality-1-Year Aggregations by County](https://github.com/CT-Data-Collaborative/fetal-and-infant-mortality-1-year-aggregations-by-county)
+- [Fetal and Infant Mortality-1-Year Aggregations by Town](https://github.com/CT-Data-Collaborative/fetal-and-infant-mortality-1-year-aggregations-by-town)
+- [Fetal and Infant Mortality-3-Year Aggregations by County](https://github.com/CT-Data-Collaborative/fetal-and-infant-mortality-3-year-aggregations-by-county)
+- [Fetal and Infant Mortality-3-Year Aggregations by Town](https://github.com/CT-Data-Collaborative/fetal-and-infant-mortality-3-year-aggregations-by-town)
+- [Fetal and Infant Mortality-5-Year Aggregations by County](https://github.com/CT-Data-Collaborative/fetal-and-infant-mortality-5-year-aggregations-by-county)
+- [Fetal and Infant Mortality-5-Year Aggregations by Town](https://github.com/CT-Data-Collaborative/fetal-and-infant-mortality-5-year-aggregations-by-town)
 - [Substance Abuse Treatment Admissions](https://github.com/CT-Data-Collaborative/substance-abuse-treatment-admissions)
 
 ### Housing

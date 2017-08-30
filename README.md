@@ -22,8 +22,11 @@ Data publishing is at the core of what we do at CTData. The vast majority of our
 - [Births by Maternal Socioeconomic Characteristics - 1-Year Data](https://github.com/CT-Data-Collaborative/births-by-maternal-socioeconomic-characteristics-1-year-data)
 - [Births by Maternal Socioeconomic Characteristics - 3-Year Aggregations](https://github.com/CT-Data-Collaborative/births-by-maternal-socioeconomic-characteristics-3-year-aggregations)
 - [Births by Maternal Socioeconomic Characteristics - 5-Year Aggregations](https://github.com/CT-Data-Collaborative/births-by-maternal-socioeconomic-characteristics-5-year-aggregations)
-- [Population by Age by Town](https://github.com/CT-Data-Collaborative/population-by-age-by-town)
+- [Non-working Parents](https://github.com/CT-Data-Collaborative/non-working-parents)
 - [Population by Age by County](https://github.com/CT-Data-Collaborative/population-by-age-by-county)
+- [Population by Age by Town](https://github.com/CT-Data-Collaborative/population-by-age-by-town)
+- [Population Projections by County](https://github.com/CT-Data-Collaborative/population-projections-by-county)
+- [Population Projections by Town](https://github.com/CT-Data-Collaborative/population-projections-by-town)
 
 ### Economics
 
@@ -62,6 +65,7 @@ Data publishing is at the core of what we do at CTData. The vast majority of our
 - [College-Entrance-and-Persistence-by-Meal-Eligibility](https://github.com/CT-Data-Collaborative/college-entrance-and-persistence-by-meal-eligibility)
 - [College-Entrance-and-Persistence-by-ELL](https://github.com/CT-Data-Collaborative/college-entrance-and-persistence-by-ELL)
 - [College-Entrance-and-Persistence-by-All-Students](https://github.com/CT-Data-Collaborative/college-entrance-and-persistence-by-all-students)
+- [Educational Need](https://github.com/CT-Data-Collaborative/educational-need)
 - [Five-Year-Grad-Rates-by-Gender](https://github.com/CT-Data-Collaborative/five-year-grad-rates-by-gender)
 - [Five-Year-Grad-Rates-by-Race-Ethnicity](https://github.com/CT-Data-Collaborative/five-year-grad-rates-by-race-ethnicity)
 - [Five-Year-Grad-Rates-by-Special-Education-Status](https://github.com/CT-Data-Collaborative/five-year-grad-rates-by-special-education-status)
@@ -94,9 +98,12 @@ Data publishing is at the core of what we do at CTData. The vast majority of our
 - [Suspension-Rates-by-Meal-Eligibility](https://github.com/CT-Data-Collaborative/suspension-rates-by-meal-eligibility)
 - [Suspension-Rates-by-ELL](https://github.com/CT-Data-Collaborative/suspension-rates-by-ELL)
 - [Suspension-Rates-by-All-Students](https://github.com/CT-Data-Collaborative/suspension-rates-by-all-students)
+- [Suspension Rates by Grade](https://github.com/CT-Data-Collaborative/suspension-rates-by-grade)
+- [Suspension Rate by Race](https://github.com/CT-Data-Collaborative/suspension-rate-by-race)
 
 ### Health
 
+- [Birth to Three Annual Data](https://github.com/CT-Data-Collaborative/birth-to-three-annual-data)
 - [Fetal and Infant Mortality-1-Year Aggregations by County](https://github.com/CT-Data-Collaborative/fetal-and-infant-mortality-1-year-aggregations-by-county)
 - [Fetal and Infant Mortality-1-Year Aggregations by Town](https://github.com/CT-Data-Collaborative/fetal-and-infant-mortality-1-year-aggregations-by-town)
 - [Fetal and Infant Mortality-3-Year Aggregations by County](https://github.com/CT-Data-Collaborative/fetal-and-infant-mortality-3-year-aggregations-by-county)
@@ -104,9 +111,30 @@ Data publishing is at the core of what we do at CTData. The vast majority of our
 - [Fetal and Infant Mortality-5-Year Aggregations by County](https://github.com/CT-Data-Collaborative/fetal-and-infant-mortality-5-year-aggregations-by-county)
 - [Fetal and Infant Mortality-5-Year Aggregations by Town](https://github.com/CT-Data-Collaborative/fetal-and-infant-mortality-5-year-aggregations-by-town)
 - [Substance Abuse Treatment Admissions](https://github.com/CT-Data-Collaborative/substance-abuse-treatment-admissions)
+- [Suicide](https://github.com/CT-Data-Collaborative/suicide)
 
 ### Housing
 
+- [Annual Housing Permits by County](https://github.com/CT-Data-Collaborative/annual-housing-permits-by-county)
+- [Annual Housing Permits by Town](https://github.com/CT-Data-Collaborative/annual-housing-permits-by-town)
+- [Demolitions](https://github.com/CT-Data-Collaborative/demolitions)
 - [Distribution of Home Sales](https://github.com/CT-Data-Collaborative/distribution-of-home-sales)
+- [Subsidized Housing](https://github.com/CT-Data-Collaborative/subsidized-housing)
 
 ### Safety
+
+- [Juvenile Arrests](https://github.com/CT-Data-Collaborative/juvenile-arrests)
+- [UCR Crime Index](https://github.com/CT-Data-Collaborative/ucr-crime-index)
+
+### Not Available in Data Topic View
+
+- [Labor Market Areas](https://github.com/CT-Data-Collaborative/labor-market-areas)
+- [Regional Planning Areas](https://github.com/CT-Data-Collaborative/regional-planning-areas)
+- [Housing Units Pre-1950](https://github.com/CT-Data-Collaborative/housing-units-pre-1950)
+- [Major Employers](https://github.com/CT-Data-Collaborative/major-employers)
+- [Commuting and Residence](https://github.com/CT-Data-Collaborative/commuting-and-residence)
+
+
+
+
+

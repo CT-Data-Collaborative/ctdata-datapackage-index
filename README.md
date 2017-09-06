@@ -22,6 +22,8 @@ Data publishing is at the core of what we do at CTData. The vast majority of our
 - [Births by Maternal Socioeconomic Characteristics - 1-Year Data](https://github.com/CT-Data-Collaborative/births-by-maternal-socioeconomic-characteristics-1-year-data)
 - [Births by Maternal Socioeconomic Characteristics - 3-Year Aggregations](https://github.com/CT-Data-Collaborative/births-by-maternal-socioeconomic-characteristics-3-year-aggregations)
 - [Births by Maternal Socioeconomic Characteristics - 5-Year Aggregations](https://github.com/CT-Data-Collaborative/births-by-maternal-socioeconomic-characteristics-5-year-aggregations)
+- [DPH Annual Population Estimates by County](https://github.com/CT-Data-Collaborative/dph-annual-population-estimates-by-county)
+- [DPH Annual Population Estimates by Town](https://github.com/CT-Data-Collaborative/dph-annual-population-estimates-by-town)
 - [Non-working Parents](https://github.com/CT-Data-Collaborative/non-working-parents)
 - [Population by Age by County](https://github.com/CT-Data-Collaborative/population-by-age-by-county)
 - [Population by Age by Town](https://github.com/CT-Data-Collaborative/population-by-age-by-town)
@@ -103,7 +105,11 @@ Data publishing is at the core of what we do at CTData. The vast majority of our
 
 ### Health
 
+
+- [Accidental Drug Related Deaths by Drug Type](https://github.com/CT-Data-Collaborative/accidental-drug-related-deaths-by-drug-type)
+- [Accidental Drug Related Deaths by Individual Drugs Detected](https://github.com/CT-Data-Collaborative/accidental-drug-related-deaths-by-individual-drugs-detected)
 - [Birth to Three Annual Data](https://github.com/CT-Data-Collaborative/birth-to-three-annual-data)
+- [Drug Induced Deaths](https://github.com/CT-Data-Collaborative/drug-induced-deaths)
 - [Fetal and Infant Mortality-1-Year Aggregations by County](https://github.com/CT-Data-Collaborative/fetal-and-infant-mortality-1-year-aggregations-by-county)
 - [Fetal and Infant Mortality-1-Year Aggregations by Town](https://github.com/CT-Data-Collaborative/fetal-and-infant-mortality-1-year-aggregations-by-town)
 - [Fetal and Infant Mortality-3-Year Aggregations by County](https://github.com/CT-Data-Collaborative/fetal-and-infant-mortality-3-year-aggregations-by-county)
@@ -111,6 +117,7 @@ Data publishing is at the core of what we do at CTData. The vast majority of our
 - [Fetal and Infant Mortality-5-Year Aggregations by County](https://github.com/CT-Data-Collaborative/fetal-and-infant-mortality-5-year-aggregations-by-county)
 - [Fetal and Infant Mortality-5-Year Aggregations by Town](https://github.com/CT-Data-Collaborative/fetal-and-infant-mortality-5-year-aggregations-by-town)
 - [Substance Abuse Treatment Admissions](https://github.com/CT-Data-Collaborative/substance-abuse-treatment-admissions)
+- [Substance Abuse Treatment Admissions by Drug Type](https://github.com/CT-Data-Collaborative/substance-treatment-admissions-by-drug-type)
 - [Suicide](https://github.com/CT-Data-Collaborative/suicide)
 
 ### Housing

@@ -29,6 +29,7 @@ Data publishing is at the core of what we do at CTData. The vast majority of our
 - [Population by Age by Town](https://github.com/CT-Data-Collaborative/population-by-age-by-town)
 - [Population Projections by County](https://github.com/CT-Data-Collaborative/population-projections-by-county)
 - [Population Projections by Town](https://github.com/CT-Data-Collaborative/population-projections-by-town)
+- [Single Parent Families](https://github.com/CT-Data-Collaborative/single-parent-families)
 
 ### Economics
 
@@ -105,7 +106,6 @@ Data publishing is at the core of what we do at CTData. The vast majority of our
 
 ### Health
 
-
 - [Accidental Drug Related Deaths by Drug Type](https://github.com/CT-Data-Collaborative/accidental-drug-related-deaths-by-drug-type)
 - [Accidental Drug Related Deaths by Individual Drugs Detected](https://github.com/CT-Data-Collaborative/accidental-drug-related-deaths-by-individual-drugs-detected)
 - [Birth to Three Annual Data](https://github.com/CT-Data-Collaborative/birth-to-three-annual-data)
@@ -116,6 +116,8 @@ Data publishing is at the core of what we do at CTData. The vast majority of our
 - [Fetal and Infant Mortality-3-Year Aggregations by Town](https://github.com/CT-Data-Collaborative/fetal-and-infant-mortality-3-year-aggregations-by-town)
 - [Fetal and Infant Mortality-5-Year Aggregations by County](https://github.com/CT-Data-Collaborative/fetal-and-infant-mortality-5-year-aggregations-by-county)
 - [Fetal and Infant Mortality-5-Year Aggregations by Town](https://github.com/CT-Data-Collaborative/fetal-and-infant-mortality-5-year-aggregations-by-town)
+- [Liquor Law Arrests](https://github.com/CT-Data-Collaborative/liquor-law-arrests)
+- [Lung Cancer Deaths](https://github.com/CT-Data-Collaborative/lung-cancer-deaths)
 - [Substance Abuse Treatment Admissions](https://github.com/CT-Data-Collaborative/substance-abuse-treatment-admissions)
 - [Substance Abuse Treatment Admissions by Drug Type](https://github.com/CT-Data-Collaborative/substance-treatment-admissions-by-drug-type)
 - [Suicide](https://github.com/CT-Data-Collaborative/suicide)
@@ -126,6 +128,7 @@ Data publishing is at the core of what we do at CTData. The vast majority of our
 - [Annual Housing Permits by Town](https://github.com/CT-Data-Collaborative/annual-housing-permits-by-town)
 - [Demolitions](https://github.com/CT-Data-Collaborative/demolitions)
 - [Distribution of Home Sales](https://github.com/CT-Data-Collaborative/distribution-of-home-sales)
+- [Foreclosures](https://github.com/CT-Data-Collaborative/foreclosures)
 - [Subsidized Housing](https://github.com/CT-Data-Collaborative/subsidized-housing)
 
 ### Safety
@@ -140,6 +143,13 @@ Data publishing is at the core of what we do at CTData. The vast majority of our
 - [Housing Units Pre-1950](https://github.com/CT-Data-Collaborative/housing-units-pre-1950)
 - [Major Employers](https://github.com/CT-Data-Collaborative/major-employers)
 - [Commuting and Residence](https://github.com/CT-Data-Collaborative/commuting-and-residence)
+
+
+
+
+
+
+
 
 
 

@@ -87,6 +87,7 @@ Data publishing is at the core of what we do at CTData. The vast majority of our
 - [Accidental Drug Related Deaths by Drug Type](https://github.com/CT-Data-Collaborative/accidental-drug-related-deaths-by-drug-type)
 - [Accidental Drug Related Deaths by Individual Drugs Detected](https://github.com/CT-Data-Collaborative/accidental-drug-related-deaths-by-individual-drugs-detected)
 - [Birth to Three Annual Data](https://github.com/CT-Data-Collaborative/birth-to-three-annual-data)
+- [Birth to Three Birth Cohort Data](https://github.com/CT-Data-Collaborative/birth-to-three-cohort-data)
 - [Drug Induced Deaths](https://github.com/CT-Data-Collaborative/drug-induced-deaths)
 - [Fetal and Infant Mortality-1-Year Aggregations by County](https://github.com/CT-Data-Collaborative/fetal-and-infant-mortality-1-year-aggregations-by-county)
 - [Fetal and Infant Mortality-1-Year Aggregations by Town](https://github.com/CT-Data-Collaborative/fetal-and-infant-mortality-1-year-aggregations-by-town)
@@ -96,6 +97,8 @@ Data publishing is at the core of what we do at CTData. The vast majority of our
 - [Fetal and Infant Mortality-5-Year Aggregations by Town](https://github.com/CT-Data-Collaborative/fetal-and-infant-mortality-5-year-aggregations-by-town)
 - [Liquor Law Arrests](https://github.com/CT-Data-Collaborative/liquor-law-arrests)
 - [Lung Cancer Deaths](https://github.com/CT-Data-Collaborative/lung-cancer-deaths)
+- [Mental Health](https://github.com/CT-Data-Collaborative/mental-health)
+- [Mental Health and Substance Abuse Treatment Admissions](https://github.com/CT-Data-Collaborative/mental-health-and-substance-abuse-treatment-admissions)
 - [Substance Abuse Treatment Admissions](https://github.com/CT-Data-Collaborative/substance-abuse-treatment-admissions)
 - [Substance Abuse Treatment Admissions by Drug Type](https://github.com/CT-Data-Collaborative/substance-treatment-admissions-by-drug-type)
 - [Suicide](https://github.com/CT-Data-Collaborative/suicide)
@@ -107,7 +110,9 @@ Data publishing is at the core of what we do at CTData. The vast majority of our
 - [Demolitions](https://github.com/CT-Data-Collaborative/demolitions)
 - [Distribution of Home Sales](https://github.com/CT-Data-Collaborative/distribution-of-home-sales)
 - [Foreclosures](https://github.com/CT-Data-Collaborative/foreclosures)
+- [Residential Mobility by Race and Ethnicity](https://github.com/CT-Data-Collaborative/residential-mobility-by-race-and-ethnicity)
 - [Subsidized Housing](https://github.com/CT-Data-Collaborative/subsidized-housing)
+- [Subsidized Housing by Type](https://github.com/CT-Data-Collaborative/subsidized-housing-by-type)
 
 ### Safety
 
@@ -121,15 +126,3 @@ Data publishing is at the core of what we do at CTData. The vast majority of our
 - [Housing Units Pre-1950](https://github.com/CT-Data-Collaborative/housing-units-pre-1950)
 - [Major Employers](https://github.com/CT-Data-Collaborative/major-employers)
 - [Commuting and Residence](https://github.com/CT-Data-Collaborative/commuting-and-residence)
-
-
-
-
-
-
-
-
-
-
-
-
